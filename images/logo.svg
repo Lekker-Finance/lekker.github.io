@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="327px" height="83px" viewBox="0 0 327 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Untitled</title>
+    <defs>
+        <polygon id="path-1" points="0 0 58.7708333 0 58.7708333 58.7708333 0 58.7708333"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2" transform="translate(0.751334, 0.598959)">
+            <line x1="-23.2851831" y1="41.1536451" x2="36.7200151" y2="41.1536451" id="Path" stroke="#FCA311" stroke-width="13.7203257" stroke-linecap="round" transform="translate(6.717416, 41.153645) rotate(90.000000) translate(-6.717416, -41.153645) "></line>
+            <line x1="7.07679362" y1="71.4322909" x2="40.1549223" y2="71.4322909" id="Path" stroke="#FCA311" stroke-width="13.6849259" stroke-linecap="round" transform="translate(23.615858, 71.432291) rotate(180.000000) translate(-23.615858, -71.432291) "></line>
+            <line x1="56.8267895" y1="41.2083335" x2="89.9049181" y2="41.2083335" id="Path" stroke="#FCA311" stroke-width="13.6849259" stroke-linecap="round" transform="translate(73.365854, 41.208333) rotate(180.000000) translate(-73.365854, -41.208333) "></line>
+            <line x1="56.8267895" y1="70.7604169" x2="89.9049181" y2="70.7604169" id="Path" stroke="#FCA311" stroke-width="13.6849259" stroke-linecap="round" transform="translate(73.365854, 70.760417) rotate(180.000000) translate(-73.365854, -70.760417) "></line>
+            <line x1="56.8267895" y1="10.9843748" x2="89.9049181" y2="10.9843748" id="Path" stroke="#FCA311" stroke-width="13.6849259" stroke-linecap="round" transform="translate(73.365854, 10.984375) rotate(180.000000) translate(-73.365854, -10.984375) "></line>
+            <line x1="76.21481" y1="40.4869768" x2="136.220022" y2="40.4869768" id="Path" stroke="#FCA311" stroke-width="13.7203257" stroke-linecap="round" transform="translate(106.217416, 40.486977) rotate(90.000000) translate(-106.217416, -40.486977) "></line>
+            <line x1="102.573639" y1="27.0343696" x2="152.496609" y2="27.0333388" id="Path" stroke="#FCA311" stroke-width="13.920021" stroke-linecap="round" transform="translate(127.535124, 27.033854) rotate(139.091919) translate(-127.535124, -27.033854) "></line>
+            <line x1="112.686366" y1="53.2423395" x2="154.701589" y2="53.2420312" id="Path" stroke="#FCA311" stroke-width="13.868715" stroke-linecap="round" transform="translate(133.693977, 53.242185) rotate(-128.911182) translate(-133.693977, -53.242185) "></line>
+            <line x1="220.019497" y1="40.2239584" x2="244.998661" y2="40.2239584" id="Path" stroke="#FCA311" stroke-width="13.8907683" stroke-linecap="round" transform="translate(232.509079, 40.223958) rotate(-180.000000) translate(-232.509079, -40.223958) "></line>
+            <line x1="220.279914" y1="70.7604169" x2="253.358042" y2="70.7604169" id="Path" stroke="#FCA311" stroke-width="13.6849259" stroke-linecap="round" transform="translate(236.818978, 70.760417) rotate(180.000000) translate(-236.818978, -70.760417) "></line>
+            <line x1="220.279914" y1="10.2656242" x2="253.358042" y2="10.2656242" id="Path" stroke="#FCA311" stroke-width="13.9653079" stroke-linecap="round" transform="translate(236.818978, 10.265624) rotate(-180.000000) translate(-236.818978, -10.265624) "></line>
+            <line x1="189.92315" y1="41.1536451" x2="249.928348" y2="41.1536451" id="Path" stroke="#FCA311" stroke-width="13.7203257" stroke-linecap="round" transform="translate(219.925749, 41.153645) rotate(90.000000) translate(-219.925749, -41.153645) "></line>
+            <line x1="239.12106" y1="40.4869768" x2="299.126272" y2="40.4869768" id="Path" stroke="#FCA311" stroke-width="13.7203257" stroke-linecap="round" transform="translate(269.123666, 40.486977) rotate(90.000000) translate(-269.123666, -40.486977) "></line>
+            <line x1="133.068983" y1="40.6588511" x2="193.074181" y2="40.6588511" id="Path" stroke="#FCA311" stroke-width="13.7203257" stroke-linecap="round" transform="translate(163.071582, 40.658851) rotate(90.000000) translate(-163.071582, -40.658851) "></line>
+            <line x1="159.427802" y1="27.206247" x2="209.350772" y2="27.2052162" id="Path" stroke="#FCA311" stroke-width="13.920021" stroke-linecap="round" transform="translate(184.389287, 27.205732) rotate(139.091919) translate(-184.389287, -27.205732) "></line>
+            <line x1="169.540539" y1="53.4142138" x2="211.555748" y2="53.4139055" id="Path" stroke="#FCA311" stroke-width="13.868715" stroke-linecap="round" transform="translate(190.548143, 53.414060) rotate(-128.911182) translate(-190.548143, -53.414060) "></line>
+            <g id="Clipped" transform="translate(263.337207, 0.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Path"></g>
+                <path d="M29.364584,58.7708333 C13.1927093,58.7708333 7.57912251e-14,45.578124 7.57912251e-14,29.3645827 C7.57912251e-14,13.197916 13.1927093,0 29.364584,0 C45.5729173,0 58.7240831,13.197916 58.7240831,29.3645827 C58.7708333,45.578124 45.5729173,58.7708333 29.364584,58.7708333 Z M29.364584,16.1666667 C22.109376,16.1666667 16.1666667,22.1093747 16.1666667,29.3645827 C16.1666667,36.6197907 22.109376,42.5625 29.364584,42.5625 C36.614584,42.5625 42.557292,36.6197907 42.557292,29.3645827 C42.557292,22.1093747 36.6614587,16.1666667 29.364584,16.1666667 Z" id="Shape" fill="#FCA311" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            </g>
+            <line x1="282.318817" y1="61.5855807" x2="319.360813" y2="61.5863016" id="Path" stroke="#FCA311" stroke-width="13.9828943" stroke-linecap="round" transform="translate(300.839815, 61.585941) rotate(-145.611672) translate(-300.839815, -61.585941) "></line>
+            <line x1="269.686162" y1="8.26562431" x2="294.779919" y2="8.26562431" id="Path" stroke="#FCA311" stroke-width="13.9554846" stroke-linecap="round" transform="translate(282.233041, 8.265624) rotate(-180.000000) translate(-282.233041, -8.265624) "></line>
+        </g>
+    </g>
+</svg>
