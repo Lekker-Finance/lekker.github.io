@@ -174,7 +174,7 @@ p {
 }
 
 .navbar .navbar-toggler i {
-    color: #fff;
+    color: #FCA311;
 }
 
 .navbar-fixed {
@@ -197,7 +197,7 @@ p {
 }
 
 .navbar-fixed .navbar-toggler i {
-    color: #333;
+    color: #FCA311;
 }
 
 .navbar-transparent {
@@ -220,7 +220,8 @@ p {
 
 /* about us */
 .about .content {
-    background: #fff;
+    background: #333333;
+    color: #fff;
     border-radius: 15px;
     text-align: center;
     padding: 30px;
@@ -761,8 +762,12 @@ footer .social li a i {
         padding-top: 0;
     }
 
+    .navbar {
+        background: #191B1F;
+    }
+
     .navbar .navbar-nav li a {
-        color: #333;
+        color: #fff;
     }
 
     .about h2 {
@@ -808,7 +813,7 @@ footer .social li a i {
     }
 
     .navbar-nav {
-        background: #fff;
+        background: #191B1F;
         box-shadow: 0 12px 30px -15px rgba(0, 0, 0, 0.2);
         border-radius: 0 0 15px 15px;
         border-top: 0;
@@ -878,9 +883,10 @@ footer .social li a i {
     }
 
     .navbar .navbar-nav {
-        background: #fff;
+        background: #191B1F;
         padding: 14px 0;
     }
+    
 
     .navbar-fixed .navbar-nav {
         background: transparent;
@@ -888,7 +894,7 @@ footer .social li a i {
     }
 
     .navbar .navbar-nav li a {
-        color: #333;
+        color: #fff;
     }
 
     .services .content-left {
@@ -925,5 +931,7 @@ footer .social li a i {
     .portfolio .content-image .portfolio-caption {
         top: 35%;
     }
+    
+
 
 }
