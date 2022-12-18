@@ -2,11 +2,11 @@ $(function() {
 
     'use strict';
 
-    // loader
-    $.fakeLoader({
-        spinner: "spinner2",
-        bgColor: "#FCA311"
-    });
+    // // loader
+    // $.fakeLoader({
+    //     spinner: "spinner2",
+    //     bgColor: "#FCA311"
+    // });
 
     // smooth scroll
     $("a").on("click", function(event) {
@@ -34,6 +34,7 @@ $(function() {
 
         if( onScroll > 50) {
             $(".navbar").addClass("navbar-fixed");
+            
         }
         else {
             $(".navbar").removeClass("navbar-fixed");

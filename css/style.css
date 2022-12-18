@@ -25,6 +25,7 @@ body {
     font-size: 20px;
     font-weight: 400;
     font-family: 'Inter', sans-serif;
+    padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
 }
 
 h1 {
@@ -61,7 +62,7 @@ h6 {
 }
 
 a {
-    color: #FCA311;
+    color: #fff;
 }
 
 a:hover {
@@ -99,7 +100,7 @@ p {
     
     font-weight: 500;
     font-size: 15px;
-    border-radius: 10px;
+    border-radius: 100px;
     color: #fff;
     letter-spacing: 1px;
     /* margin-top: 22px; */
@@ -110,7 +111,7 @@ p {
 .button:hover {
     border-color: #ffbd59;
     color: #FCA311;
-    background: #ffbd59;
+    background: #f7c274;
     transition: .2s ease-out;
 }
 
@@ -142,6 +143,7 @@ p {
     -webkit-backdrop-filter: blur(18px);
     opacity: 1;
 }
+
 
 .navbar .navbar-brand {
     color: #333;
@@ -180,25 +182,18 @@ p {
     color: #FCA311;
 }
 
-/* .navbar-fixed {
-    background: #191B1F;
-    backdrop-filter: blur(18px);
-    -webkit-backdrop-filter: blur(18px);
-    opacity: 0.97;
-    transition: .2s ease-out;
-    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0);
-    /* border-bottom: solid #fff;
-    border-width: calc(0.001px + .1vw); */
-} */
+
 
 .navbar-fixed {
-    background: #fff;
-    transition: .5s ease-out;
-    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0);
+    /* background: #191B1F;
+    transition: .5s ease-out; */
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(56, 50, 50, 0);
+   
 }
 
 .navbar-fixed .navbar-brand {
     color: #333;
+    
 }
 
 .navbar-fixed .navbar-brand span {
@@ -215,6 +210,7 @@ p {
 
 .navbar-transparent {
     background: transparent !important;
+    
    
 }
 
