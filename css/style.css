@@ -822,19 +822,13 @@ footer .social li a i {
 
     .navbar-toggler {
         border-radius: 0;
+        
     }
 
     .navbar-brand {
         margin-left: 15px;
     }
 
-    .navbar-nav {
-        background: #191B1F;
-        box-shadow: 0 12px 30px -15px rgba(0, 0, 0, 0.2);
-        border-radius: 0 0 15px 15px;
-        border-top: 0;
-        outline: none;
-    }
 
     .navbar-fixed .navbar-nav {
         background: transparent;
@@ -894,14 +888,7 @@ footer .social li a i {
 }
 
 @media (max-width:640px) {
-    /* .navbar-fixed .navbar-nav li {
-        padding: -1px;
-    } */
 
-    .navbar .navbar-nav {
-        background: #191B1F;
-        padding: 14px 0;
-    }
     
 
     .navbar-fixed .navbar-nav {
