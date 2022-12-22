@@ -21,7 +21,7 @@ Table of Content:
 /* general */
 body {
     background: #191B1F;
-    color: #8a8a8a;
+    color: #C2BFC6;
     font-size: 20px;
     font-weight: 400;
     font-family: 'Inter', sans-serif;
@@ -62,7 +62,8 @@ h6 {
 }
 
 a {
-    color: #fff;
+    color: #C2BFC6;
+    
 }
 
 a:hover {
@@ -166,7 +167,7 @@ p {
 }
 
 .navbar .navbar-nav li a {
-    color: #fff;
+    color: #EAEBEF;
     font-size: 16px;
 }
 
@@ -231,7 +232,7 @@ p {
 /* about us */
 .about .content {
     background: #333333;
-    color: #fff;
+    color: #C2BFC6;
     border-radius: 15px;
     text-align: center;
     padding: 30px;
@@ -250,17 +251,17 @@ p {
 
 .about .content:hover {
     background: #FCA311;
-    color: #fff;
+    color: #EAEBEF;
     transition: .3s ease-out;
     box-shadow: 0 12px 30px -15px rgba(0, 0, 0, 0.2);
 }
 
 .about .content:hover i {
-    color: #fff;
+    color: #EAEBEF;
 }
 
 .about .content:hover h5 {
-    color: #fff;
+    color: #EAEBEF;
 }
 
 /* home intro */
@@ -295,7 +296,10 @@ p {
 
 .home-intro .content {
     padding-top: 20px;
-    color: #8a8a8a;
+    /* color: #8a8a8a;  */
+    color: #C2BFC6;
+    /* color: #D9D7E0 */
+    
 
 }
 
@@ -306,7 +310,7 @@ p {
 
 .home-intro h5 .line {
     height: 3px;
-    background: #fff;
+    background: #191B1F;
     width: 60px;
     display: inline-block;
     position: relative;
@@ -320,9 +324,9 @@ p {
     margin: 60px 0;
     line-height: 54px;
     letter-spacing: 1px;
-    -webkit-text-fill-color: #fff;
+    -webkit-text-fill-color: #FAFAFC;
     -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: #fff;
+    -webkit-text-stroke-color: #FAFAFC;
 }
 
 .home-intro h2 span {
@@ -731,7 +735,7 @@ footer ul li {
 }
 
 footer ul li a {
-    color: #ccc;
+    color: #C2BFC6;
 }
 
 footer ul li a i {
