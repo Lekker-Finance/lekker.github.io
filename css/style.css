@@ -26,6 +26,7 @@ body {
     font-weight: 400;
     font-family: 'Inter', sans-serif;
     padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+    
 }
 
 h1 {
@@ -139,10 +140,7 @@ p {
 /* navbar */
 .navbar {
     padding: 15px 0 15px;
-    transition: .5s ease-out;
-    backdrop-filter: blur(18px);
-    -webkit-backdrop-filter: blur(18px);
-    opacity: 1;
+   
 }
 
 
@@ -188,6 +186,10 @@ p {
 .navbar-fixed {
     /* background: #191B1F;
     transition: .5s ease-out; */
+    transition: .5s ease-out;
+    backdrop-filter: blur(18px);
+    -webkit-backdrop-filter: blur(18px);
+    opacity: 1;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(56, 50, 50, 0);
    
 }
@@ -267,11 +269,13 @@ p {
 /* home intro */
 .home-intro {
     /* background: url(../images/bg-intro.png), #191B1F; */
+    background: url(../images/background.png), #191B1F;
     /* background: #191B1F; */
     background-repeat: no-repeat;
     padding: 130px 0 150px !important;
-    background-size: 58%;
-    background-position: top right;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
 }
 
 .home-intro .content-image {
@@ -319,7 +323,7 @@ p {
 }
 
 .home-intro h1 {
-    font-size: 96px;
+    font-size: 102px;
     font-weight: 700;
     margin: 60px 0;
     line-height: 54px;
@@ -752,7 +756,7 @@ footer .social li a i {
         margin-top: 85px;
     }
 
-    .home-intro h2 {
+    .home-intro h1 {
         font-size: 60px;
         margin: 12px 0;
     }
@@ -786,7 +790,7 @@ footer .social li a i {
         color: #fff;
     }
 
-    .about h2 {
+    .about h1 {
         margin-top: 30px;
     }
 
@@ -891,10 +895,10 @@ footer .social li a i {
 
     
 
-    .navbar-fixed .navbar-nav {
+    /* .navbar-fixed .navbar-nav {
         background: transparent;
         padding: 14px !important;
-    }
+    } */
 
     .navbar .navbar-nav li a {
         color: #fff;
@@ -911,14 +915,14 @@ footer .social li a i {
 }
 
 @media (max-width:480px) {
-    .navbar .navbar-nav {
+    /* .navbar .navbar-nav {
         margin: 11px;
         margin-left: 11px !important;
-    }
+    } */
 
-    .navbar-fixed .navbar-nav {
+    /* .navbar-fixed .navbar-nav {
         padding: 2px;
-    }
+    } */
 
     .portfolio .content-image .portfolio-caption {
         top: 40%;
