@@ -19,6 +19,10 @@ Table of Content:
 @import url("https://fonts.googleapis.com/css?family=Inter:400,500,600,700,800,900");
 
 /* general */
+
+html {
+    background-color: #191B1F;
+  }
 body {
     background: #191B1F;
     color: #C2BFC6;
@@ -55,11 +59,16 @@ h6 {
 
 h1,
 h2,
-h3,
 h4,
 h5,
 h6 {
     color: #FCA311;
+}
+
+h3 {
+    background: -webkit-linear-gradient(180deg, #fca311, #c2bfc6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 a {
@@ -713,7 +722,7 @@ form textarea:focus {
 
 /* footer */
 footer {
-    background: #191B1F;
+    background-color: #191B1F;
     padding: 90px 0 80px;
 }
 
@@ -874,6 +883,7 @@ footer .social li a i {
 
     footer {
         text-align: center;
+        background-color: #191B1F;
     }
 
     footer span {
